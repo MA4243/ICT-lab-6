@@ -1,0 +1,17 @@
+🛠️ Git
+- Definition: Git is a distributed version control system used to track changes in source code during software development.
+- Purpose: It helps developers collaborate, manage code history, and revert to previous versions if needed.
+- Key Features:
+- Branching and merging
+- Local repositories
+- Commit history
+- Conflict resolution
+
+🌐 GitHub
+- Definition: GitHub is a cloud-based platform that hosts Git repositories and provides tools for collaboration.
+- Purpose: It enables sharing, reviewing, and managing code projects online.
+- Key Features:
+- Remote repositories
+- Pull requests and code reviews
+- Issue tracking
+- GitHub Actions for automation
